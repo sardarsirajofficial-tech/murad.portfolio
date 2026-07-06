@@ -378,4 +378,5 @@ input:focus, textarea:focus {
 }
 h1:hover{
     color:white;
+    cursor: pointer;
 }
