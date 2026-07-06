@@ -376,3 +376,6 @@ input:focus, textarea:focus {
         font-size: 2rem;
     }
 }
+h1:hover{
+    color:white;
+}
